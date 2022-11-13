@@ -1,1 +1,1 @@
-{"version":"1.1.0", "notes":"Many small hotfixes."}
+{"version":"1.2.0", "notes":"ESX, OxLib, New Minigame, Custom World Wrecks, More!"}
