@@ -1,1 +1,1 @@
-{"version":"1.2.1", "notes":"ESX, OxLib, New Minigame, Custom World Wrecks, More! (1.2.1 Includes Bug Fixes)"}
+{"version":"1.2.2", "notes":"ESX, OxLib, New Minigame, Custom World Wrecks, More! (1.2.2 Includes Bug Fixes)"}
