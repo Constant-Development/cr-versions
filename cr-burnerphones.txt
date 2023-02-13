@@ -1,1 +1,1 @@
-{"version":"1.4.0", "notes":"ESX, OxLib, Mutltiple Phones + Calls Support."}
+{"version":"1.4.1", "notes":"Small Fixes"}
