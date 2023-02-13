@@ -1,1 +1,1 @@
-{"version":"1.4.1", "notes":"Small Fixes + Version Checker"}
+{"version":"1.5.0", "notes":"ESX + OxLib + Gabz Update"}
