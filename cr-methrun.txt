@@ -1,1 +1,1 @@
-{"version":"1.6", "notes":"Mutli-Framework + Additions"}
+{"version":"1.6.0", "notes":"Constant Development Grand Reopening April 2nd!"}

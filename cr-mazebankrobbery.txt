@@ -1,1 +1,1 @@
-{"version":"1.1.2", "notes":"Added Version Check + Small Fixes"}
+{"version":"1.1.2.0", "notes":"Constant Development Grand Reopening April 2nd!"}
