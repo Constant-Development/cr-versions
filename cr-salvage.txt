@@ -1,1 +1,1 @@
-{"version":"1.3.0", "notes":"Constant Development Grand Reopening April 2nd!"}
+{"version":"1.3.1", "notes":"Constant Dev is back! + Added LB Phone"}
