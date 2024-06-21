@@ -1,1 +1,1 @@
-{"version":"1.6.1", "notes":"New Payday-Inspired Camera System + Gabz Support"}
+{"version":"1.6.3", "notes":"Some doorlocks & other misc fixes"}
