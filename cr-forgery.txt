@@ -1,1 +1,1 @@
-{"version":"1.1.1", "notes":"Added Custom-made prop"}
+{"version":"1.2.1", "notes":"General Fixes + More, see discord for full log."}
