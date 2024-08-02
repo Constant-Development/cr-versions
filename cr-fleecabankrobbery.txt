@@ -1,1 +1,1 @@
-{"version":"1.6.4", "notes":"Fixed qb-doorlock reset trigger"}
+{"version":"1.6.6", "notes":"Fixed qb-inventory triggers"}
