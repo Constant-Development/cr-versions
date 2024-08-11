@@ -1,1 +1,1 @@
-{"version":"1.3.3", "notes":"Updated qb-inventory triggers"}
+{"version":"1.3.4", "notes":"Updated ox_inventory triggers + Saw breaking notif + stop salvaging when saw broke"}
